@@ -11,5 +11,6 @@ summary(mod1$gam)
 plot(mod1$gam,scale=0)
 
 
+####test1
 
 save(mod1, file="original_data/meta_regression.Rdata")
